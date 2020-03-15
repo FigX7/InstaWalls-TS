@@ -8,6 +8,7 @@
 
 import React from 'react';
 import {
+  Platform,
   SafeAreaView,
   StyleSheet,
   ScrollView,
